@@ -1,0 +1,19 @@
+body {
+   background-color: lightblue;
+}
+h3 {
+  height: 200px;
+  width: 100%;
+  background-color: rgb(2, 2, 63);
+  color: white;
+}
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 20px;
+  display: inline;
+
+}
+ol, .center, li {
+  display: inline;
+}
